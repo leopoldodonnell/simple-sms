@@ -1,5 +1,7 @@
 # simple-sms
 
+[![Known Vulnerabilities](https://snyk.io/test/github/{username}/{repo}/badge.svg)](https://snyk.io/test/github/{username}/{repo})
+
 A very simple example of using the Twilio SMS API
 
 This node project uses very rudimentary `express` and `Twilio` to build an example website that will send an SMS to
