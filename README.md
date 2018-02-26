@@ -1,6 +1,6 @@
 # simple-sms
 
-[![Known Vulnerabilities](https://snyk.io/test/github/leopoldodonnell/simple-sms/badge.svg)](https://snyk.io/test/github/leopoldodonnell/symple-sms)
+[![Known Vulnerabilities](https://snyk.io/test/github/leopoldodonnell/simple-sms/badge.svg)](https://snyk.io/test/github/leopoldodonnell/simple-sms)
 
 A very simple example of using the Twilio SMS API
 
